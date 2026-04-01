@@ -1,8 +1,7 @@
 # Measuring the Qualification Gap in Loan Approval
 
-**Author:** Second-semester Freshman, Beloit College  
-**Supervisor:** Prof. Disha Shende — Data Analytics / Data Science / Economics  
-**Course:** 0.5-unit Independent Study  
+
+**Supervisor:** Prof. Disha Shende — Data Analytics / Data Science / Economics   
 
 ---
 
