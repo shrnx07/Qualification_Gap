@@ -1,0 +1,8 @@
+pandas>=2.0
+scikit-learn>=1.4
+duckdb>=0.10
+matplotlib>=3.8
+seaborn>=0.13
+jupyterlab>=4.0
+pyarrow
+scipy
