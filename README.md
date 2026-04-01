@@ -89,7 +89,7 @@ notebooks/04_sensitivity.ipynb → Compare models, sensitivity analysis
 
 ## Key Findings
 
-*(To be updated after Week 3 analysis is complete)*
+*(To be updated)*
 
 ---
 
