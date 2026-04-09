@@ -63,7 +63,7 @@ Note: The denial rate gradient (24.3% → 17.2%) is meaningful but modest. The q
 
 ### 3.1 Data Pipeline
 
-Raw CSV data was cleaned using Python (pandas), with employment length parsed from string format (e.g., "< 1 year" → 0, "10+ years" → 10). Cleaned records were loaded into a DuckDB relational database with three tables: `applicants`, `income_brackets`, and `gap_scores`. All pipeline code is available at [GitHub repo link].
+Raw CSV data was cleaned using Python (pandas), with employment length parsed from string format (e.g., "< 1 year" → 0, "10+ years" → 10). Cleaned records were loaded into a DuckDB relational database with three tables: `applicants`, `income_brackets`, and `gap_scores`. 
 
 ### 3.2 Models
 
