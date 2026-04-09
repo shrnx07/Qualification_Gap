@@ -1,11 +1,6 @@
 # Quantifying Financial Exclusion: How Does the Qualification Gap Disproportionately Vary Across Income Tiers in the Peer-to-Peer Lending Market?
 
-**Author:** Sai Sharan Balagopal  
-**Supervisor:** Prof. Disha Shende — Data Analytics / Data Science / Economics  
-**Beloit College — 0.5-unit Independent Study**  
-**April 2026**
 
----
 
 ## 1. Introduction
 
@@ -192,13 +187,4 @@ The Qualification Gap as a metric is the primary contribution. It transforms a b
 
 ---
 
-## References
 
-- Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual Explanations without Opening the Black Box. *Harvard Journal of Law & Technology, 31*, 841–887.
-- Karimi, A. H., Schölkopf, B., & Valera, I. (2021). Algorithmic Recourse: From Counterfactual Explanations to Interventions. *FAccT 2021*, 353–362.
-- King, R. G., & Levine, R. (1993). Finance and Growth: Schumpeter Might Be Right. *Quarterly Journal of Economics, 108*(3), 717–737.
-
----
-
-*Code and data pipeline available at: [GitHub repo URL]*  
-*Figures available in the `figures/` directory of the repository*
