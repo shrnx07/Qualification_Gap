@@ -153,7 +153,7 @@ Running the identical gap calculation with both models yields:
 
 **Spearman rank correlation: rho = 0.80**
 
-This is **Case B** per the playbook framework: the models disagree on absolute gap magnitudes but agree on the directional ordering across brackets. The decision tree produces consistently lower absolute gaps, likely because its stepwise boundary is easier to cross with small income changes. The key conclusion — that lower-income denied applicants face proportionally larger gaps — holds under both models.
+the models disagree on absolute gap magnitudes but agree on the directional ordering across brackets. The decision tree produces consistently lower absolute gaps, likely because its stepwise boundary is easier to cross with small income changes. The conclusion — that lower-income denied applicants face proportionally larger gaps — holds under both models.
 
 *(See Figure 3)*
 
