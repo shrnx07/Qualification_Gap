@@ -4,7 +4,7 @@ run_pipeline.py
 End-to-end pipeline for the Qualification Gap project.
 
 Outcome definition (loan_status from accepted file):
-    Fully Paid                → outcome = 1 (approved / repaid)
+    Fully Paid                → outcome = 1 (approved/repaid)
     Charged Off, Default      → outcome = 0 (denied proxy / defaulted)
     Current, Late, Grace Period → dropped (outcome unknown)
 
