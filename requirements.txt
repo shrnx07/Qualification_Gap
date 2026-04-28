@@ -6,3 +6,4 @@ seaborn>=0.13
 jupyterlab>=4.0
 pyarrow
 scipy
+statsmodels
